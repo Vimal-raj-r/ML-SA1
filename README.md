@@ -1,6 +1,7 @@
 # ML-SKILL ASSESMENT1
 ```
 QUESTION:
+
 Q1. Create a scatter plot between cylinder vs Co2Emission (green color)
 Q2. Using scatter plot compare data   cylinder vs Co2Emission
 and Enginesize Vs Co2Emission using different colors
@@ -17,8 +18,8 @@ and train the models and note down their accuracies
 # PROGRAM:
 ```py
 
-Developed by:YUVAN SUNDAR S
-REGISTER NUMBER:212223040250
+Developed by:VIMALRAJ R
+REGISTER NUMBER:212223040242
 
 
 import pandas as pd
